@@ -76,3 +76,20 @@ The primary objectives of this analysis are:
 ```bash
 git clone <repository-url>
 cd <project-folder>
+```
+## Step 2: Install Dependencies
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+## Step 3: Add Dataset
+
+Place the dataset file:
+
+```bash
+bank-full.csv
+```
+
+## Running the Project
+
+run it inside a Jupyter Notebook.
